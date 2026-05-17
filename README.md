@@ -11,8 +11,8 @@ I'm a Data Science student focused on bridging the gap between complex physical 
   **What I'm Building:**
 - BIPV Digital Twin: An AI energy modeler using XGBoost and FastAPI to predict solar yields - currently working on building a 3d visualization aspect to it.
 - JAL-KAVACH: A proactive "Contamination Radar" for rural water systems.
-- Mental health app(no - name): an in progress project that im hoping to get around completing.
-- Snake (Ball-Python) Morph Identifier: a personal project (exploring my interests in herpetolgy) that i have put into action, building a ball python morph identifier to help with rescues and further not expand it to other species!
+- Mental health app(no - name): An in progress project that I'm hoping to get around to completing.
+- Snake (Ball-Python) Morph Identifier: A personal project I have put into action to explore my interests in herpetology: building a ball python morph identifier to help rescues!
 
 ### Data Analysis Portfolio
 * Indigo Airlines: 6-month sales performance and trend analysis especially for international routes and how they impact the revenue.
